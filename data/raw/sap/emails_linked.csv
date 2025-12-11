@@ -1,0 +1,51 @@
+email_id,sender_name,sender_email,subject,po_number,invoice_number,tone
+E001,Manoj Sharma,contact1@supplymart.com,URGENT: Incorrect Amount Billed in INV-9001,4500101,INV-9001,urgent
+E002,Rekha Kumar,contact2@globaltrade.com,Invoice mismatch for PO 4500102,4500102,INV-9002,informal
+E003,Amit Sharma,contact3@freshsuppliers.com,Query: INV-9003 vs PO 4500103,4500103,INV-9003,formal
+E004,Neha Kumar,contact4@metrogoods.com,Payment blocked — INV-9004 amount mismatch,4500104,INV-9004,frustrated
+E005,Ramesh Sharma,contact5@primesourcing.com,Discrepancy in Invoice INV-9005,4500105,INV-9005,polite
+E006,Sunita Kumar,contact6@aaravexports.com,URGENT: Incorrect Amount Billed in INV-9006,4500106,INV-9006,urgent
+E007,Vikram Sharma,contact7@bharatlogistics.com,Invoice mismatch for PO 4500107,4500107,INV-9007,informal
+E008,Priya Kumar,contact8@crestsupplies.com,Query: INV-9008 vs PO 4500108,4500108,INV-9008,formal
+E009,Rahul Sharma,contact9@dhanushindustries.com,Payment blocked — INV-9009 amount mismatch,4500109,INV-9009,frustrated
+E010,Kavita Kumar,contact10@econoparts.com,Discrepancy in Invoice INV-9010,4500110,INV-9010,polite
+E011,Manoj Sharma,contact11@supplymart.com,URGENT: Incorrect Amount Billed in INV-9011,4500111,INV-9011,urgent
+E012,Rekha Kumar,contact12@globaltrade.com,Invoice mismatch for PO 4500112,4500112,INV-9012,informal
+E013,Amit Sharma,contact13@freshsuppliers.com,Query: INV-9013 vs PO 4500113,4500113,INV-9013,formal
+E014,Neha Kumar,contact14@metrogoods.com,Payment blocked — INV-9014 amount mismatch,4500114,INV-9014,frustrated
+E015,Ramesh Sharma,contact15@primesourcing.com,Discrepancy in Invoice INV-9015,4500115,INV-9015,polite
+E016,Sunita Kumar,contact16@aaravexports.com,URGENT: Incorrect Amount Billed in INV-9016,4500116,INV-9016,urgent
+E017,Vikram Sharma,contact17@bharatlogistics.com,Invoice mismatch for PO 4500117,4500117,INV-9017,informal
+E018,Priya Kumar,contact18@crestsupplies.com,Query: INV-9018 vs PO 4500118,4500118,INV-9018,formal
+E019,Rahul Sharma,contact19@dhanushindustries.com,Payment blocked — INV-9019 amount mismatch,4500119,INV-9019,frustrated
+E020,Kavita Kumar,contact20@econoparts.com,Discrepancy in Invoice INV-9020,4500120,INV-9020,polite
+E021,Manoj Sharma,contact21@supplymart.com,URGENT: Incorrect Amount Billed in INV-9021,4500121,INV-9021,urgent
+E022,Rekha Kumar,contact22@globaltrade.com,Invoice mismatch for PO 4500122,4500122,INV-9022,informal
+E023,Amit Sharma,contact23@freshsuppliers.com,Query: INV-9023 vs PO 4500123,4500123,INV-9023,formal
+E024,Neha Kumar,contact24@metrogoods.com,Payment blocked — INV-9024 amount mismatch,4500124,INV-9024,frustrated
+E025,Ramesh Sharma,contact25@primesourcing.com,Discrepancy in Invoice INV-9025,4500125,INV-9025,polite
+E026,Sunita Kumar,contact26@aaravexports.com,URGENT: Incorrect Amount Billed in INV-9026,4500126,INV-9026,urgent
+E027,Vikram Sharma,contact27@bharatlogistics.com,Invoice mismatch for PO 4500127,4500127,INV-9027,informal
+E028,Priya Kumar,contact28@crestsupplies.com,Query: INV-9028 vs PO 4500128,4500128,INV-9028,formal
+E029,Rahul Sharma,contact29@dhanushindustries.com,Payment blocked — INV-9029 amount mismatch,4500129,INV-9029,frustrated
+E030,Kavita Kumar,contact30@econoparts.com,Discrepancy in Invoice INV-9030,4500130,INV-9030,polite
+E031,Manoj Sharma,contact31@supplymart.com,URGENT: Incorrect Amount Billed in INV-9031,4500131,INV-9031,urgent
+E032,Rekha Kumar,contact32@globaltrade.com,Invoice mismatch for PO 4500132,4500132,INV-9032,informal
+E033,Amit Sharma,contact33@freshsuppliers.com,Query: INV-9033 vs PO 4500133,4500133,INV-9033,formal
+E034,Neha Kumar,contact34@metrogoods.com,Payment blocked — INV-9034 amount mismatch,4500134,INV-9034,frustrated
+E035,Ramesh Sharma,contact35@primesourcing.com,Discrepancy in Invoice INV-9035,4500135,INV-9035,polite
+E036,Sunita Kumar,contact36@aaravexports.com,URGENT: Incorrect Amount Billed in INV-9036,4500136,INV-9036,urgent
+E037,Vikram Sharma,contact37@bharatlogistics.com,Invoice mismatch for PO 4500137,4500137,INV-9037,informal
+E038,Priya Kumar,contact38@crestsupplies.com,Query: INV-9038 vs PO 4500138,4500138,INV-9038,formal
+E039,Rahul Sharma,contact39@dhanushindustries.com,Payment blocked — INV-9039 amount mismatch,4500139,INV-9039,frustrated
+E040,Kavita Kumar,contact40@econoparts.com,Discrepancy in Invoice INV-9040,4500140,INV-9040,polite
+E041,Manoj Sharma,contact41@supplymart.com,URGENT: Incorrect Amount Billed in INV-9041,4500141,INV-9041,urgent
+E042,Rekha Kumar,contact42@globaltrade.com,Invoice mismatch for PO 4500142,4500142,INV-9042,informal
+E043,Amit Sharma,contact43@freshsuppliers.com,Query: INV-9043 vs PO 4500143,4500143,INV-9043,formal
+E044,Neha Kumar,contact44@metrogoods.com,Payment blocked — INV-9044 amount mismatch,4500144,INV-9044,frustrated
+E045,Ramesh Sharma,contact45@primesourcing.com,Discrepancy in Invoice INV-9045,4500145,INV-9045,polite
+E046,Sunita Kumar,contact46@aaravexports.com,URGENT: Incorrect Amount Billed in INV-9046,4500146,INV-9046,urgent
+E047,Vikram Sharma,contact47@bharatlogistics.com,Invoice mismatch for PO 4500147,4500147,INV-9047,informal
+E048,Priya Kumar,contact48@crestsupplies.com,Query: INV-9048 vs PO 4500148,4500148,INV-9048,formal
+E049,Rahul Sharma,contact49@dhanushindustries.com,Payment blocked — INV-9049 amount mismatch,4500149,INV-9049,frustrated
+E050,Kavita Kumar,contact50@econoparts.com,Discrepancy in Invoice INV-9050,4500150,INV-9050,polite
